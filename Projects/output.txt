@@ -1,0 +1,38 @@
+Employees with 7 consecutive work days:
+GaXCes, EXias XEpez
+CaMaXaWE, CeghaW
+CaMaXaWE, CeghaW
+CeciWa, SiXvesMre Jr
+
+Employees with short time between shifts:
+CaMaXaWE, CeghaW
+CaMaXaWE, CeghaW
+Xee, XaCar
+Xee, XaCar
+Xee, XaCar
+De Xa Cerda, IgWaciE
+MraW, WiXXiaC Ha
+MraW, WiXXiaC Ha
+CEreira Jr, JEse
+GrACfieXd, CErWeXiAs
+DeXgadiXXE REdarMe, ChrisMiaW S
+HaCiXMEW, DeaWMe DevEW
+REdrigAez, GraWdEW AWgeX
+SaWchez, ArWAXfE
+
+Employees with long single shifts:
+SiWgh, PraGhjEM
+GaXCes, EXias XEpez
+CaMaXaWE, CeghaW
+CaMaXaWE, CeghaW
+MErres, EdAardE
+XEpes, JerrEd
+Ware, JEshAa
+KaAr, ArviWder
+WiXGard, Shadrack
+DeXgadiXXE REdarMe, ChrisMiaW S
+CeciWa, SiXvesMre Jr
+PearsEW, DeXviW DevEW
+REiz, CarviW E
+SEMEsEXis, Richar SMeveW
+ArveXE RECerE, AWdres JesAs
